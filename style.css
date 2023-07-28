@@ -21,23 +21,24 @@ body {
   align-items: center;
   margin: auto;
   margin-top: 8rem;
-  width: 16rem;
-  height: 25rem;
+  /* width: 25rem; */
+  max-width: 350px;
+  height: 30rem;
 }
 
 .container img {
-  width: 14rem;
+  width: 20rem;
   border-radius: 8px;
   display: block;
-  height: 15rem;
-  padding-top: -1;
+  height: 21rem;
+  padding-top: 5px;
 }
 
 .container h2 {
   font-family: "Outfit", sans-serif;
   font-weight: 700;
-  font-size: 18px;
-  padding-top: 15px;
+  /* font-size: 18px; */
+
   padding-left: 18px;
   justify-content: center;
 }
@@ -49,9 +50,9 @@ body {
   font-weight: 400;
   justify-content: center;
   margin: auto;
-  padding-top: 15px;
-  padding-left: 10px;
-  padding-right: 10px;
+  padding: 12px;
+  width: 265px;
+  color: hsl(220, 15%, 55%);
 }
 
 .attribution {
