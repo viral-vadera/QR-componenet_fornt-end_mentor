@@ -50,3 +50,4 @@ To try the challenge with the basics of HTML and CSS and learn form the experien
 
 
 
+# QR-componenet_fornt-end_mentor
